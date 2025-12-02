@@ -138,7 +138,7 @@ SkillIndia/
 
 ## 🤝 Contributors
 
-- Allen Lenoy
+- Adithya Padmanabhan
 
 ---
 
